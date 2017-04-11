@@ -1,0 +1,252 @@
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Manifestacija.exe
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Manifestacija.pdb
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csprojResolveAssemblyReference.cache
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Tip.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Tip.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\App.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija_MarkupCompile.cache
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.g.resources
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.Properties.Resources.resources
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csproj.GenerateResource.Cache
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.exe
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.pdb
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.g.cs
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.baml
+D:\3\HCI\6.2DZ\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.exe
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.pdb
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Manifestacija.exe
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Manifestacija.pdb
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csprojResolveAssemblyReference.cache
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Tip.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.baml
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Tip.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\App.g.cs
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija_MarkupCompile.cache
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.g.resources
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.Properties.Resources.resources
+E:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csproj.GenerateResource.Cache
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.exe
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.pdb
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Manifestacija.exe
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Manifestacija.pdb
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csprojResolveAssemblyReference.cache
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Tip.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.baml
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Tip.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\App.g.cs
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija_MarkupCompile.cache
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.g.resources
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.Properties.Resources.resources
+H:\novo\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csproj.GenerateResource.Cache
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.exe
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.pdb
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Manifestacija.exe
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Manifestacija.pdb
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csprojResolveAssemblyReference.cache
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Tip.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Tip.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\App.g.cs
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija_MarkupCompile.cache
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.g.resources
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.Properties.Resources.resources
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csproj.GenerateResource.Cache
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\ManifestacijeSadrzeTip.baml
+C:\Users\zlata\Desktop\HCI2016PZ62DZRA3-2013\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\ManifestacijeSadrzeTip.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.exe
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.pdb
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Manifestacija.exe
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Manifestacija.pdb
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csprojResolveAssemblyReference.cache
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\ManifestacijeSadrzeTip.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Tip.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.baml
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\ManifestacijeSadrzeTip.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Tip.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\App.g.cs
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija_MarkupCompile.cache
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.g.resources
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.Properties.Resources.resources
+C:\Users\ra3-2013\Desktop\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csproj.GenerateResource.Cache
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.exe
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.pdb
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Manifestacija.exe
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Manifestacija.pdb
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csprojResolveAssemblyReference.cache
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\ManifestacijeSadrzeTip.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Tip.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.baml
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\ManifestacijeSadrzeTip.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Tip.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\App.g.cs
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija_MarkupCompile.cache
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.g.resources
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.Properties.Resources.resources
+E:\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csproj.GenerateResource.Cache
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.exe
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.pdb
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Manifestacija.exe
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Manifestacija.pdb
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csprojResolveAssemblyReference.cache
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\ManifestacijeSadrzeTip.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Tip.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DodajManifestaciju.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Etiketa.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\ManifestacijeSadrzeTip.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\neuspesnaSelekcija.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\NeuspesnoBrisanje.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Pomoc.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Prikaz.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Tip.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UnderConstruction.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Uspesno.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\UspesnoObrisani.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\App.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija_MarkupCompile.cache
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.g.resources
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.Properties.Resources.resources
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\Manifestacija.csproj.GenerateResource.Cache
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DaLiZeliteObrisati.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DaLiZeliteObrisati.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DaLiZeliteObrisatiEtiketu.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DaLiZeliteObrisatiEtiketu.g.cs
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DaLiZeliteObrisatiTip.baml
+C:\Users\ZlajoX\Desktop\Manifestacija Final-1\HCI2016PZ62DZRA3-2013 ovde radis\Manifestacija\Manifestacija\obj\x86\Debug\DaLiZeliteObrisatiTip.g.cs

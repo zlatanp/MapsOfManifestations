@@ -1,0 +1,33 @@
+﻿<Window x:Class="Manifestacija.Etiketa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dodaj Etiketu" Height="345" Width="412" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="/Manifestacija;component/Images/dodajetiketu1.png" >
+    <Grid Height="320" Width="401">
+        <Label Content="Jedinstvena oznaka etikete (ID):" Height="28" HorizontalAlignment="Left" Margin="12,22,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Opis etikete:" Height="28" HorizontalAlignment="Left" Margin="12,90,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Boja etikete:" Height="28" HorizontalAlignment="Left" Margin="12,158,0,0" Name="label3" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="203,26,0,0" Name="textBox1" VerticalAlignment="Top" Width="120"  LostFocus="textBox1_LostFocus" ToolTip="Unesite ID etikete" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="203,93,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" LostFocus="textBox2_LostFocus" ToolTip="Unesite opis etikete"/>
+        <Button Content="Unesi" Height="23" HorizontalAlignment="Left" Margin="94,249,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Button Content="Poništi" Height="23" HorizontalAlignment="Left" Margin="219,249,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="203,48,0,0" Name="label4" VerticalAlignment="Top" Width="180" BorderBrush="{x:Null}" Foreground="Red" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="203,115,0,0" Name="label5" VerticalAlignment="Top" Width="180" Foreground="Red" />
+        <Label Height="28" Margin="203,183,28,0" Name="label6" VerticalAlignment="Top" Foreground="Red" />
+        <ComboBox Height="24" HorizontalAlignment="Left" Margin="203,158,0,0" Name="comboBox1" VerticalAlignment="Top" Width="120" MouseLeave="comboBox1_MouseLeave">
+            <ComboBoxItem Background="Red" Content="Crvena" />
+            <ComboBoxItem Background="Orange" Content="Narandžasta" />
+            <ComboBoxItem Background="Yellow" Content="Žuta" />
+            <ComboBoxItem Background="Chartreuse" Content="Svetlo Zelena" />
+            <ComboBoxItem Background="Green" Content="Zelena" />
+            <ComboBoxItem Background="Teal" Content="Svetlo Plava" />
+            <ComboBoxItem Background="Blue" Content="Plava" />
+            <ComboBoxItem Background="Violet" Content="Teget Plava" />
+            <ComboBoxItem Background="Purple" Content="Ljubičasta" />
+            <ComboBoxItem Background="Magenta" Content="Pink" />
+            <ComboBoxItem Background="White" Content="Bela" />
+            <ComboBoxItem Background="Black" Content="Crna" />
+            <ComboBoxItem Background="Gray" Content="Siva" />
+
+        </ComboBox>
+    </Grid>
+</Window>

@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0A3B8B71-4D8C-4F39-9274-01836D21B05A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Manifestacija</RootNamespace>
+    <AssemblyName>Manifestacija</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Maps.MapControl.WPF">
+      <HintPath>..\Bing Maps WPF Control\V1\Libraries\Microsoft.Maps.MapControl.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="ClassEtiketa.cs" />
+    <Compile Include="ClassManifestacija.cs" />
+    <Compile Include="ClassTip.cs" />
+    <Compile Include="DaLiZeliteObrisati.xaml.cs">
+      <DependentUpon>DaLiZeliteObrisati.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DaLiZeliteObrisatiEtiketu.xaml.cs">
+      <DependentUpon>DaLiZeliteObrisatiEtiketu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DaLiZeliteObrisatiTip.xaml.cs">
+      <DependentUpon>DaLiZeliteObrisatiTip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Etiketa.xaml.cs">
+      <DependentUpon>Etiketa.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ManifestacijeSadrzeTip.xaml.cs">
+      <DependentUpon>ManifestacijeSadrzeTip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="neuspesnaSelekcija.xaml.cs">
+      <DependentUpon>neuspesnaSelekcija.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NeuspesnoBrisanje.xaml.cs">
+      <DependentUpon>NeuspesnoBrisanje.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pomoc.xaml.cs">
+      <DependentUpon>Pomoc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Prikaz.xaml.cs">
+      <DependentUpon>Prikaz.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tip.xaml.cs">
+      <DependentUpon>Tip.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UnderConstruction.xaml.cs">
+      <DependentUpon>UnderConstruction.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Uspesno.xaml.cs">
+      <DependentUpon>Uspesno.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UspesnoObrisani.xaml.cs">
+      <DependentUpon>UspesnoObrisani.xaml</DependentUpon>
+    </Compile>
+    <Page Include="DaLiZeliteObrisati.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DaLiZeliteObrisatiEtiketu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DaLiZeliteObrisatiTip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DodajManifestaciju.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Etiketa.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DodajManifestaciju.xaml.cs">
+      <DependentUpon>DodajManifestaciju.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="ManifestacijeSadrzeTip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="neuspesnaSelekcija.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NeuspesnoBrisanje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pomoc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Prikaz.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UnderConstruction.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Uspesno.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UspesnoObrisani.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\SIVO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mapa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mapabig.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\addicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\deleteicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\izmeni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\otvori.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\sacuvaj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\black-today-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\black-tag-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\black-wedding-rings-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dodajmanif.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dodajmanif1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dodajtip1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dodajetiketu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\obrisimanif.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\obrisitip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\obrisietiketu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\editmanif.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\edittip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\editetiketu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\saver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\eee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ddde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ddd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\678134-sign-check-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Cancel-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\1464629276_gnome-help.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

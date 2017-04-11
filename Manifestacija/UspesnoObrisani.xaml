@@ -1,0 +1,12 @@
+﻿<Window x:Class="Manifestacija.UspesnoObrisani"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Obrisano" Height="162" Width="232" WindowStartupLocation="CenterScreen" Icon="/Manifestacija;component/Images/678134-sign-check-128.png">
+        <Grid>
+            <Grid Height="121" Width="212">
+                <Button Content="OK" Height="28" HorizontalAlignment="Center" Name="okdugme" VerticalAlignment="Center" Width="83" Click="button1_Click" Margin="68,78,61,15" />
+                <TextBlock Height="24" HorizontalAlignment="Left" Name="textBlock1" Text="Uspešno obrisano!" VerticalAlignment="Top" TextWrapping="Wrap" TextAlignment="Center" FontSize="14" Width="212" Margin="0,51,0,0" />
+            <Image Height="48" HorizontalAlignment="Left" Margin="82,1,0,0" Name="image1" Source="/Manifestacija;component/Images/678134-sign-check-128.png" Stretch="Fill" VerticalAlignment="Top" Width="48" />
+        </Grid>
+        </Grid>
+</Window>

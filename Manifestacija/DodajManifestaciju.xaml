@@ -1,0 +1,70 @@
+﻿<Window x:Class="Manifestacija.DodajManifestaciju"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dodaj Manifestaciju" Height="565" Width="755" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="/Manifestacija;component/Images/dodajmanif1.png">
+    <Grid>
+        <Label Content="ID Manifestacije:" Height="28" HorizontalAlignment="Left" Margin="12,30,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Naziv Manifestacije: " Height="28" HorizontalAlignment="Left" Margin="12,88,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Opis Manifestacije:" Height="28" HorizontalAlignment="Left" Margin="12,146,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Tip Manifestacije:" Height="28" HorizontalAlignment="Left" Margin="12,204,0,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="Etiketa: " Height="28" HorizontalAlignment="Left" Margin="12,267,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="Datum: " Height="28" HorizontalAlignment="Left" Margin="12,369,0,0" Name="label6" VerticalAlignment="Top" />
+        <Label Content="Očekivana Publika:" Height="28" HorizontalAlignment="Left" Margin="12,427,0,0" Name="label7" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="162,33,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" LostFocus="textBox1_LostFocus" ToolTip="Unesite ID manifestacije"  />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="162,91,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" LostFocus="textBox2_LostFocus" ToolTip="Unesite Naziv manifestacije"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="162,149,0,0" Name="textBox3" VerticalAlignment="Top" Width="120" LostFocus="textBox3_LostFocus" ToolTip="Unesite Opis manifestacije"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="162,430,0,0" Name="textBox6" VerticalAlignment="Top" Width="120" LostFocus="textBox6_LostFocus" ToolTip="Unesite broj ocekivane publika" PreviewTextInput="textBox6_PreviewTextInput" />
+        <Label Content="Status služenja alkohola:" Height="28" HorizontalAlignment="Left" Margin="367,30,0,0" Name="label9" VerticalAlignment="Top" />
+        <Label Content="Dostupno za hendikepirane: " Height="28" HorizontalAlignment="Left" Margin="367,88,0,0" Name="label11" VerticalAlignment="Top" />
+        <Label Content="Dozvoljeno pušenje: " Height="28" HorizontalAlignment="Left" Margin="367,147,0,0" Name="label10" VerticalAlignment="Top" />
+        <Label Content="Mesto održavanja:" Height="28" HorizontalAlignment="Left" Margin="367,205,0,0" Name="label12" VerticalAlignment="Top" />
+        <Label Content="Kategorija cena:" Height="28" HorizontalAlignment="Left" Margin="367,262,0,0" Name="label13" VerticalAlignment="Top" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="517,33,0,0" Name="comboBox1" VerticalAlignment="Top" Width="120" MouseLeave="comboBox1_LostFocus" ToolTip="Izaberite nacin sluzenja alkohola">
+            <ComboBoxItem Content="Nema" />
+            <ComboBoxItem Content="Moze se doneti" />
+            <ComboBoxItem Content="Moze se kupiti na licu mesta" />
+        </ComboBox>
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="517,265,0,0" Name="comboBox2" VerticalAlignment="Top" Width="120" MouseLeave="comboBox2_LostFocus" ToolTip="Izaberite kategoriju cena">
+            <ComboBoxItem Content="Besplatno" />
+            <ComboBoxItem Content="Niske cene" />
+            <ComboBoxItem Content="Srednje cene" />
+        </ComboBox>
+        <Label Content="Ikona:" Height="28" HorizontalAlignment="Left" Margin="432,330,0,0" Name="label14" VerticalAlignment="Top" />
+        <Button Content="Unesi" Height="29" HorizontalAlignment="Left" Margin="441,477,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Content="Poništi" Height="29" HorizontalAlignment="Left" Margin="544,477,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="162,55,0,0" Name="label15" VerticalAlignment="Top" Width="180" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="162,113,0,0" Name="label16" VerticalAlignment="Top" Width="180" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="162,171,0,0" Name="label17" VerticalAlignment="Top" Width="180" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="162,230,0,0" Name="comboBox3" VerticalAlignment="Top" Width="120" MouseLeave="comboBox3_LostFocus" ToolTip="Izaberite Tip manifestacije">
+            </ComboBox>
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="11,229,0,0" Name="label18" VerticalAlignment="Top" Width="180" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="162,452,0,0" Name="label20" VerticalAlignment="Top" Width="180" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="517,55,0,0" Name="label21" VerticalAlignment="Top" Width="180" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="517,287,0,0" Name="label22" VerticalAlignment="Top" Width="180" />
+        <Grid Margin="517,201,57,222" MouseLeave="Grid_LostFocus" ToolTip="Oznacite mesto odrzavanja (Napolju ili unutra))">
+            <RadioButton Content="Napolju" Height="16" HorizontalAlignment="Left" Margin="6,10,0,0" Name="radioButton5" VerticalAlignment="Top" />
+            <RadioButton Content="Unutra" Height="16" HorizontalAlignment="Left" Margin="89,10,0,0" Name="radioButton6" VerticalAlignment="Top" />
+        </Grid>
+        <Grid Margin="517,146,93,278" MouseLeave="Grid_LostFocus_1" ToolTip="Da li je dozvoljeno pusenje?">
+            <RadioButton Content="Da" Height="16" HorizontalAlignment="Left" Margin="6,10,0,0" Name="radioButton3" VerticalAlignment="Top" />
+            <RadioButton Content="Ne" Height="16" HorizontalAlignment="Left" Margin="68,10,0,0" Name="radioButton4" VerticalAlignment="Top" />
+        </Grid>
+        <Grid Margin="537,85,83,339" MouseLeave="Grid_LostFocus_2" Name="grid1" ToolTip="Da li je dostupno za hendikepirane?">
+            <RadioButton Content="Da" Height="16" HorizontalAlignment="Left" Margin="6,8,0,0" Name="radioButton1" VerticalAlignment="Top" />
+            <RadioButton Content="Ne" Height="16" HorizontalAlignment="Left" Margin="62,8,0,0" Name="radioButton2" VerticalAlignment="Top" />
+        </Grid>
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="517,230,0,0" Name="label23" VerticalAlignment="Top" Width="180" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="517,174,0,0" Name="label24" VerticalAlignment="Top" Width="180" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="537,113,0,0" Name="label25" VerticalAlignment="Top" Width="180" />
+        <Grid Margin="148,360,451,71" ToolTip="Unesite datum">
+            <Label Content="MM  /  DD / YYYY" Height="28" HorizontalAlignment="Left" Margin="14,36,0,0" Name="label8" VerticalAlignment="Top" FontStyle="Oblique"/>
+            <DatePicker Height="25" HorizontalAlignment="Left" Margin="14,9,0,0" Name="datePicker1" VerticalAlignment="Top" Width="115" LostFocus="datePicker1_CalendarClosed" />
+        </Grid>
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="282,397,0,0" Name="label27" VerticalAlignment="Top" Width="144" />
+        <Image Height="61" Name="image1" Stretch="Fill" Width="72" Visibility="Visible" OpacityMask="#FF949494" Margin="517,343,144,122" ToolTip="Prikaz trenutne ikone"></Image>
+        <Button Content="Izaberi ikonu" Height="24" HorizontalAlignment="Left" Margin="606,344,0,0" Name="button3" VerticalAlignment="Top" Width="81" Click="button3_Click" ToolTip="Izaberite ikonu"/>
+        <ListBox Height="59" HorizontalAlignment="Left" Margin="162,294,0,0" Name="listBox1" VerticalAlignment="Top" Width="145" SelectionMode="Multiple" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="162,272,0,0" Name="textBox4" VerticalAlignment="Top" Width="120" TextChanged="textBox4_TextChanged" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="162,208,0,0" Name="textBox5" VerticalAlignment="Top" Width="120" TextChanged="textBox5_TextChanged_1" />
+    </Grid>
+</Window>

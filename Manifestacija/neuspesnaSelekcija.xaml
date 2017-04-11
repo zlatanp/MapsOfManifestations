@@ -1,0 +1,13 @@
+﻿<Window x:Class="Manifestacija.neuspesnaSelekcija"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Greška" Height="225" Width="232" WindowStartupLocation="CenterScreen" Icon="/Manifestacija;component/Images/Cancel-48.png" >
+    <Grid>
+        <Grid Width="212" Margin="0,0,-2,0">
+            <Button Content="OK" Height="28" HorizontalAlignment="Center" Name="okdugme" VerticalAlignment="Center" Width="83" Click="button1_Click" Margin="68,140,61,18" />
+            <TextBlock Height="28" HorizontalAlignment="Left" Name="textBlock1" Text="Neuspela izmena!" VerticalAlignment="Center" TextWrapping="Wrap" TextAlignment="Center" FontSize="14" Width="212" Margin="0,68,0,90" />
+            <TextBlock FontSize="14" Height="35" HorizontalAlignment="Left" Margin="-1,95,0,55" Name="textBlock2" Text="Selektujete sadržaj iz tabele koji želite da izmenite!" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" Width="212" />
+            <Image Height="48" HorizontalAlignment="Left" Margin="82,6,0,0" Name="image1" Source="/Manifestacija;component/Images/Cancel-48.png" Stretch="Fill" VerticalAlignment="Top" Width="48" />
+        </Grid>
+    </Grid>
+</Window>

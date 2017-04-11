@@ -1,0 +1,223 @@
+﻿<Window x:Class="Manifestacija.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+        Title="Manifestacije" Height="610" Width="1075" ResizeMode="CanMinimize" Loaded="Otvori" Closing="Window_Closing" Icon="/Manifestacija;component/Images/black-today-32.png"
+        PreviewKeyDown="Window_PreviewKeyDown" WindowStartupLocation="CenterScreen">
+    <DockPanel>
+    <Menu DockPanel.Dock="Top" >
+        <Menu.ItemsPanel>
+            <ItemsPanelTemplate>
+                <DockPanel HorizontalAlignment="Stretch"></DockPanel>
+            </ItemsPanelTemplate>
+        </Menu.ItemsPanel>
+            <MenuItem Header="_Dodaj" ToolTip="Dodavanje novih tipova,etiketa,manifestacija" >
+                <MenuItem Header="Dodaj _Manifestaciju" ToolTip="Kliknite ovde da dodate manifestaciju!" Click="button1_Click" InputGestureText="Ctrl + M">
+                    <MenuItem.Icon>
+                        <Image Source="/Manifestacija;component/Images/addicon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+            
+                <MenuItem Header="Dodaj _Tip" ToolTip="Kliknite ovde da dodate tip!" Click="button2_Click" InputGestureText="Ctrl + T" >
+                    <MenuItem.Icon>
+                        <Image Source="/Manifestacija;component/Images/addicon.png" />
+                    </MenuItem.Icon>
+                    
+                </MenuItem>
+                
+                <MenuItem Header="Dodaj _Etiketu" ToolTip="Kliknite ovde da dodate etiketu!" Click="button3_Click" InputGestureText="Ctrl + E">
+                    <MenuItem.Icon>
+                        <Image Source="/Manifestacija;component/Images/addicon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Obriši" ToolTip="Brisanje postojećih tipova,etiketa,manifestacija">
+                <MenuItem Header="_Obriši _Manifestaciju" ToolTip="Kliknite ovde da obrišete manifestaciju!" Click="button7_Click" InputGestureText="Delete">
+                    <MenuItem.Icon>
+                        <Image Source="/Manifestacija;component/Images/deleteicon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Obriši _Tip" ToolTip="Kliknite ovde da obrišete tip!" Click="button4_Click_1" >
+                    <MenuItem.Icon>
+                        <Image Source="/Manifestacija;component/Images/deleteicon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Obriši _Etiketu" ToolTip="Kliknite ovde da obrišete etiketu!" Click="button5_Click" >
+                    <MenuItem.Icon>
+                        <Image Source="/Manifestacija;component/Images/deleteicon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+
+            </MenuItem>
+
+            <MenuItem Header="_Izmeni" ToolTip="Izmena postojećih tipova,etiketa,manifestacija">
+                <MenuItem Header="Izmeni _Manifestaciju" ToolTip="Kliknite ovde da izmenite manifestaciju!" Click="button8_Click" InputGestureText="Ctrl + I">
+                    <MenuItem.Icon>
+                        <Image Source="/Manifestacija;component/Images/edit.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Izmeni _Tip" ToolTip="Kliknite ovde da izmenite tip!" Click="button6_Click">
+                    <MenuItem.Icon>
+                        <Image Source="/Manifestacija;component/Images/edit.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Izmeni _Etiketu" ToolTip="Kliknite ovde da izmenite etiketu!" Click="button9_Click">
+                    <MenuItem.Icon>
+                        <Image Source="/Manifestacija;component/Images/edit.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+
+            </MenuItem>
+            <MenuItem Header="_Sačuvaj" ToolTip="Čuvanje izmena.">
+            
+                <MenuItem Header="_Sačuvaj Manifestacije" ToolTip="Kliknite ovde da sačuvate manifestacije!" Click="Sacuvaj" InputGestureText="Ctrl + S">
+                <MenuItem.Icon>
+                    <Image Source="/Manifestacija;component/Images/sacuvaj.png" />
+                </MenuItem.Icon>
+                    
+                </MenuItem>
+
+                
+            </MenuItem>
+
+
+            <MenuItem Header="_Pomoć" Click="MenuItem_Click" ToolTip="Pomoć o korištenju aplikacije. (F1)"/>
+
+            <MenuItem Header="Demo" HorizontalAlignment="Right" Click="MenuItem_Click_2" ToolTip="Pokretanje DEMO mod-a i prikaz rada aplikacije. (F1)"/>
+            </Menu>
+       
+            <Grid Height="566" Width="1052">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="27*" />
+                <ColumnDefinition Width="1048*" />
+            </Grid.ColumnDefinitions>
+            <ToolBar KeyboardNavigation.TabNavigation="Continue" VerticalAlignment="Top" HorizontalAlignment="Left" Height="43" Width="140" Grid.ColumnSpan="2">
+                <Button Name="dugme1" VerticalAlignment="Top" ToolTip="Kliknite ovde da unesete manifestaciju!" Click="button1_Click">
+                    <StackPanel>
+                        <Image Source="/Manifestacija;component/Images/dodajmanif1.png"  Height="32" Width="32" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor"></Image>
+                    </StackPanel>
+                </Button>
+
+                <Button Name="dugme2" VerticalAlignment="Top" ToolTip="Kliknite ovde da unesete tip!" Click="button2_Click">
+                    <StackPanel>
+                        <Image Source="/Manifestacija;component/Images/dodajtip1.png" Height="32" Width="32" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor"></Image>
+                    </StackPanel>
+                </Button>
+
+                <Button Name="dugme3" VerticalAlignment="Top" ToolTip="Kliknite ovde da unesete etiketu!" Click="button3_Click">
+                    <StackPanel>
+                        <Image Source="/Manifestacija;component/Images/dodajetiketu1.png" Height="32" Width="32" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor"></Image>
+                    </StackPanel>
+                </Button>
+
+            </ToolBar>
+                
+            <ToolBar KeyboardNavigation.TabNavigation="Continue" VerticalAlignment="Top" HorizontalAlignment="Left" Height="43" Width="140" Margin="110,0,0,0" Grid.Column="1">
+                <Button Name="dugme7" VerticalAlignment="Top" ToolTip="Kliknite ovde da izmenite manifestaciju!" Click="button8_Click">
+                    <StackPanel>
+                        <Image Source="/Manifestacija;component/Images/eee.png"  Height="32" Width="32" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor"></Image>
+                    </StackPanel>
+                </Button>
+
+                <Button Name="dugme8" VerticalAlignment="Top" ToolTip="Kliknite ovde da izmenite tip!" Click="button6_Click">
+                    <StackPanel>
+                        <Image Source="/Manifestacija;component/Images/ddde.png" Height="32" Width="32" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor"></Image>
+                    </StackPanel>
+                </Button>
+
+                <Button Name="dugme9" VerticalAlignment="Top" ToolTip="Kliknite ovde da izmenite etiketu!" Click="button9_Click">
+                    <StackPanel>
+                        <Image Source="/Manifestacija;component/Images/ddd.png" Height="32" Width="32" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor"></Image>
+                    </StackPanel>
+                </Button>
+            </ToolBar>
+
+            <ToolBar KeyboardNavigation.TabNavigation="Continue" VerticalAlignment="Top" HorizontalAlignment="Left" Height="43" Width="140" Margin="247,0,0,0" Grid.Column="1">
+                <Button Name="dugme4" VerticalAlignment="Top" ToolTip="Kliknite ovde da obrišete manifestaciju!" Click="button7_Click">
+                    <StackPanel>
+                        <Image Source="/Manifestacija;component/Images/obrisimanif.png"  Height="32" Width="32" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor"></Image>
+                    </StackPanel>
+                </Button>
+
+                <Button Name="dugme5" VerticalAlignment="Top" ToolTip="Kliknite ovde da obrišete tip!" Click="button4_Click_1">
+                    <StackPanel>
+                        <Image Source="/Manifestacija;component/Images/obrisitip.png" Height="32" Width="32" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor"></Image>
+                    </StackPanel>
+                </Button>
+
+                <Button Name="dugme6" VerticalAlignment="Top" ToolTip="Kliknite ovde da obrišete etiketu!" Click="button5_Click">
+                    <StackPanel>
+                        <Image Source="/Manifestacija;component/Images/obrisietiketu.png" Height="32" Width="32" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor"></Image>
+                    </StackPanel>
+                </Button>
+            </ToolBar>
+
+            <ToolBar KeyboardNavigation.TabNavigation="Continue" VerticalAlignment="Top" HorizontalAlignment="Left" Height="43" Width="62" Margin="384,0,0,0" Grid.Column="1">
+                <Button Name="dugme0" VerticalAlignment="Top" ToolTip="Kliknite ovde da sačuvate izmene!" Click="Sacuvaj">
+                    <StackPanel>
+                        <Image Source="/Manifestacija;component/Images/saver.png" Height="32" Width="32" SnapsToDevicePixels="True" RenderOptions.BitmapScalingMode="NearestNeighbor"></Image>
+                    </StackPanel>
+                </Button>
+            </ToolBar>
+
+            <m:Map CredentialsProvider="bkubxarUqYIidGUhA77T~nEX3LHXUX-o1pWEkGqH8DA~AgXm662yeZkAd2s_e8ppCprn6C41Ww1PuY_o1o0oluxyk5PjGp47kCE6MlAb1QeE" AllowDrop="True" Name="Mapa" Mode="Road" ZoomLevel="13" Margin="0,43,555,0" Center="45.258842, 19.822741"  DragEnter="Map_DragEnter" Drop="Map_Drop" MouseMove="Mapa_MouseMove" Grid.ColumnSpan="2"></m:Map>
+            <TabControl Height="302" HorizontalAlignment="Left" Margin="495,43,0,0" Name="tabControl1" VerticalAlignment="Top" Width="532" Grid.Column="1">
+                <TabItem Header="Manifestacije" Name="tabItem1" >
+                    <DataGrid AutoGenerateColumns="False" Height="266" Name="ManifTable" IsReadOnly="True" IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding Path=ListaManifestacija}" SelectionMode="Single" SelectedItem="{Binding SelectedContact}" SelectedCellsChanged="ManifTable_SelectedCellsChanged" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Margin="0,0,0,14" MouseLeftButtonDown="ManifTable_MouseLeftButtonDown" GotFocus="ManifTable_GotFocus" PreviewMouseLeftButtonDown="ManifTable_PreviewMouseLeftButtonDown" MouseMove="ManifTable_MouseMove" DataContext="{Binding}">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID Manifestacije" Binding="{Binding idmanifestacije}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Naziv Manifestacije" Binding="{Binding imemanifestacije}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Opis Manifestacije" Binding="{Binding opismanifestacije}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Alkohol Status" Binding="{Binding statusalkohol}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Hendikep Status" Binding="{Binding statushendikep}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Pušenje Status" Binding="{Binding statuspusenje}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Mesto odrzavanja" Binding="{Binding mestoodrzavanja}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Publika" Binding="{Binding publika}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Datum" Binding="{Binding datum}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Cena" Binding="{Binding cena}"></DataGridTextColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    
+                    
+                </TabItem>
+
+                <TabItem Header="Tipovi" Name="tabItem2" >
+                    <DataGrid AutoGenerateColumns="False" Height="262" Name="TipTable" IsReadOnly="True" IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding Path=listatipova}" SelectionMode="Single" SelectedItem="{Binding SelectedContact}" SelectedCellsChanged="ManifTable_SelectedCellsChanged" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Margin="0,0,0,14" MouseLeftButtonDown="TipTable_MouseLeftButtonDown" GotFocus="TipTable_GotFocus">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID Tipa" Width="100" Binding="{Binding IDtipa}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Ime Tipa" Binding="{Binding imetipa}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Opis Tipa" Binding="{Binding opistipa}"></DataGridTextColumn>
+                            <DataGridTemplateColumn Header="Ikona Tipa" IsReadOnly="true">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Image Source="{Binding Ikonica}" Stretch="Fill" Width="50" Height="30" />
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+
+                <TabItem Header="Etikete" Name="tabItem3" >
+                    <DataGrid AutoGenerateColumns="False" Height="261" Name="EtiketTable" IsReadOnly="True" IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding Path=listaetiketa}" SelectionMode="Single" SelectedItem="{Binding SelectedContact}" SelectedCellsChanged="ManifTable_SelectedCellsChanged" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Margin="0,0,0,14" MouseLeftButtonDown="EtiketTable_MouseLeftButtonDown" GotFocus="EtiketTable_GotFocus">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID Etikete" Width="100" Binding="{Binding IDetikete}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Opis Etikete" Binding="{Binding opis}"></DataGridTextColumn>
+                            <DataGridTextColumn Header="Boja Etikete" Binding="{Binding boja}"></DataGridTextColumn>
+                         </DataGrid.Columns>
+                    </DataGrid>
+                </TabItem>
+            </TabControl>
+            <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="763,367,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" TextChanged="textBox1_TextChanged" />
+            <TextBlock Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="498,368,0,0" Name="textBlock1" Text="Filtriraj manifestacije (po imenu manifestacije):" VerticalAlignment="Top" />
+            <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="763,404,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" TextChanged="textBox2_TextChanged" />
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="498,405,0,0" Name="textBlock2" Text="Filtriraj tipove (po imenu tipa):" VerticalAlignment="Top" Grid.Column="1" />
+            <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="763,439,0,0" Name="textBox3" VerticalAlignment="Top" Width="120" TextChanged="textBox3_TextChanged" />
+            <TextBlock Height="23" HorizontalAlignment="Left" Margin="498,440,0,0" Name="textBlock3" Text="Filtriraj etikete (po ID-u etikete):" VerticalAlignment="Top" Grid.Column="1" />
+        </Grid>
+    </DockPanel>
+</Window>

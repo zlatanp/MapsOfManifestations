@@ -1,0 +1,32 @@
+﻿<Window x:Class="Manifestacija.Pomoc"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pomoć" Height="520" Width="800">
+    <Grid>
+        <TreeView Height="457" HorizontalAlignment="Left" Margin="12,12,0,0" Name="tree" VerticalAlignment="Top" Width="200" >
+            <TreeViewItem IsExpanded="True" Name="Dodaj" Header="Dodavanje" >
+                <TreeViewItem Name="Manifestaciju" Header="Dodaj Manifestaciju" Selected="Manifestaciju_Selected" />
+                <TreeViewItem Name="Tip" Header="Dodaj Tip" Selected="Tip_Selected" />
+                <TreeViewItem Name="Etiketu" Header="Dodaj Etiketu" Selected="Etiketu_Selected" />
+            </TreeViewItem>
+
+            <TreeViewItem IsExpanded="True" Name="Obrisi" Header="Brisanje" >
+                <TreeViewItem Name="Manifestacijuu" Header="Obriši Manifestaciju" Selected="Manifestacijuu_Selected" />
+                <TreeViewItem Name="Tipp" Header="Obriši Tip" Selected="Tipp_Selected" />
+                <TreeViewItem Name="Etiketuu" Header="Obriši Etiketu" Selected="Etiketuu_Selected" />
+            </TreeViewItem>
+
+            <TreeViewItem IsExpanded="True"  Name="Izmeni" Header="Izmena" >
+                <TreeViewItem Name="Manifestacijuuu" Header="Izmeni Manifestaciju" Selected="Manifestacijuuu_Selected" />
+                <TreeViewItem Name="Tippp" Header="Izmeni Tip" Selected="Tippp_Selected" />
+                <TreeViewItem Name="Etiketuuu" Header="Izmeni Etiketu" Selected="Etiketuuu_Selected" />
+            </TreeViewItem>
+            <TreeViewItem Name="tabela" Header="Rad sa tabelom" Selected="tabela_Selected" />
+            <TreeViewItem Name="Sacuvaj" Header="Čuvanje" Selected="Sacuvaj_Selected" />
+            <TreeViewItem Name="precice" Header="Prečice" Selected="precice_Selected" />
+            <TreeViewItem Name="demo" Header="Demo" Selected="demo_Selected" />
+        
+        </TreeView>
+        <TextBlock Height="457" HorizontalAlignment="Left" Margin="218,12,0,0" Name="text" Text="&lt;- Selektujte pomoć koju želite da pročitate." VerticalAlignment="Top" Width="548" FontSize="14" TextWrapping="Wrap" />
+    </Grid>
+</Window>

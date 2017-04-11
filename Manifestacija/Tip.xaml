@@ -1,0 +1,22 @@
+﻿<Window x:Class="Manifestacija.Tip"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dodaj Tip" Height="399" Width="425" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="/Manifestacija;component/Images/dodajtip1.png">
+    <Grid Height="370" Width="413">
+        <Label Content="Jedinstvena oznaka tipa (ID):" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Ime Tipa:" Height="28" HorizontalAlignment="Left" Margin="12,80,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Opis Tipa:" Height="28" HorizontalAlignment="Left" Margin="12,148,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Ikona:" Height="28" HorizontalAlignment="Left" Margin="12,216,0,0" Name="label4" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="189,15,0,0" Name="textBox1" VerticalAlignment="Top" Width="120"  LostFocus="textBox1_LostFocus" ToolTip="Unesite ID tipa"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="189,84,0,0" Name="textBox2" VerticalAlignment="Top" Width="120"  LostFocus="textBox2_LostFocus" ToolTip="Unesite ime tipa"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="189,152,0,0" Name="textBox3" VerticalAlignment="Top" Width="120" LostFocus="textBox3_LostFocus" ToolTip="Unesite opis tipa"/>
+        <Button Content="Unesi" Height="23" HorizontalAlignment="Left" Margin="102,300,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Content="Poništi" Height="23" HorizontalAlignment="Left" Margin="240,300,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="189,37,0,0" Name="label5" VerticalAlignment="Top" Width="180" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="189,106,0,0" Name="label6" VerticalAlignment="Top" Width="180" />
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="189,174,0,0" Name="label7" VerticalAlignment="Top" Width="180" />
+        <Image Height="61" HorizontalAlignment="Left" Margin="325,216,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="72"  ToolTip="Prikaz trenutne ikone"/>
+        <Button Content="Izaberi ikonu" Height="24" HorizontalAlignment="Left" Margin="189,217,0,0" Name="button3" VerticalAlignment="Top" Width="81" Click="button3_Click" ToolTip="Izaberite ikonu"/>
+        <Label BorderBrush="{x:Null}" Foreground="Red" Height="28" HorizontalAlignment="Left" Margin="186,249,0,0" Name="label8" VerticalAlignment="Top" Width="131" />
+    </Grid>
+</Window>
